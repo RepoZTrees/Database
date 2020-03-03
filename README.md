@@ -13,4 +13,4 @@
 
 # Commands:
 
-*$ python3 alchemy_db_to_csv.py data.csv* 
+**$ python3 alchemy_db_to_csv.py data.csv**
