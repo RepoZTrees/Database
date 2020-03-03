@@ -54,5 +54,5 @@ def main(html_file):
         f.write(table)
 
 if __name__ == '__main__':
-    main("test_new1.html")
+    main("customer_info.html")
     
