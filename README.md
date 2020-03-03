@@ -1,4 +1,4 @@
-# Requirements:
+# Project Description:
 
 1. Use the faker library (pip install faker)
    https://faker.readthedocs.io/ to create 5000 customer records in
