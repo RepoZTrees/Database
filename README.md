@@ -10,6 +10,3 @@
 3. Write a function that will read out the entries in your customer
    database and produce an HTML file with customer information
 
-# Commands:
-
-`$ python3 alchemy_db_to_csv.py data.csv` # will input data from the database and converts into csv format
