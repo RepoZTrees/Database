@@ -12,4 +12,4 @@
 
 # Commands:
 
-`$ python3 alchemy_db_to_csv.py data.csv`
+`$ python3 alchemy_db_to_csv.py data.csv` # will input data from the database and converts into csv format
